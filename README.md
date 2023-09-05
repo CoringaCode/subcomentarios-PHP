@@ -1,6 +1,6 @@
-# subcomentarios-PHP
+# Subcomentarios - PHP
 
-Estamos criando uma função para um fórum de segurança em PHP. A função que estamos desenvolvendo permitirá aos usuários responderem aos comentários de outras pessoas. Além disso, quando um subcomentário for enviado como resposta a um comentário, a pessoa que fez o comentário original receberá uma notificação informando que seu comentário foi respondido.
+Estamos criando uma função para um fórum de cybersegurança em PHP. A função que estamos desenvolvendo permitirá aos usuários responderem aos comentários de outras pessoas. Além disso, quando um subcomentário for enviado como resposta a um comentário, a pessoa que fez o comentário original receberá uma notificação informando que seu comentário foi respondido.
 
 Para alcançar esse objetivo, vamos implementar as seguintes funcionalidades:
 
